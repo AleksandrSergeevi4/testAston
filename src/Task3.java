@@ -10,14 +10,4 @@ public class Task3 {
             }
         }
     }
-
-            int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        System.out.println("Четные числа:");
-
-        for (int i = 0; i < numbers.length; i++) {
-            if (numbers[i] % 2 == 0) {
-                System.out.println(numbers[i]);
-            }
-        }
-    }
 }
